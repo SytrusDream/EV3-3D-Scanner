@@ -1,0 +1,25 @@
+# Hardware Control
+python-ev3dev2>=2.1.0
+
+# Scientific Computing
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+
+# System Monitoring
+psutil>=5.8.0
+
+# Logging
+python-logging-handlers>=1.0.0
+
+# Testing
+pytest>=6.2.0
+pytest-cov>=2.12.0
+
+# Optional Development Tools
+ipython>=7.0.0
+jupyter>=1.0.0
+
+# Specific Version Constraints
+setuptools>=42.0.0
+wheel>=0.37.0
